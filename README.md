@@ -1,5 +1,11 @@
 # Online_Retail_Exploratory_Data_Analysis
 
+## Guidelines
+
+- In the data folder there are two files, one of them is **Raw Data** and another is a cleaned & filtered data and has been names as **sales_df**
+- In case you just need to go thorugh project, there is a **PDF** file in the form of PPT report, which succintly takes you through the project.
+- For a **detailed technical understanding** of the project, you can refer to the **Jupyter Notebook** file.
+
 ## Introduction
 
 In this project, we analyze transactional data from an online retail store to gain insights into sales trends, customer behavior, and popular products. The dataset details customer purchases, including product details, quantities, prices, and timestamps.
