@@ -13,14 +13,14 @@ Ultimately, this project aims to provide actionable insights that can drive stra
 The dataset we will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011.
 
 The dataset contains the following columns:<br>
-**InvoiceNo:** Invoice number of the transaction, if the code starts with letter 'c', it indicates a cancellation.
-**StockCode:** Unique code of the product.
+**InvoiceNo:** Invoice number of the transaction, if the code starts with letter 'c', it indicates a cancellation.<br>
+**StockCode:** Unique code of the product.<br>
 **Description:** Description of the product.
-**Quantity:** Quantity of the product in the transaction.
-**InvoiceDate:** Date and time of the transaction.
-**UnitPrice:** Unit price of the product.
-**CustomerID:** Unique identifier of the customer.
-**Country:** Country where the transaction occurred.
+**Quantity:** Quantity of the product in the transaction.<br>
+**InvoiceDate:** Date and time of the transaction.<br>
+**UnitPrice:** Unit price of the product.<br>
+**CustomerID:** Unique identifier of the customer.<br>
+**Country:** Country where the transaction occurred.<br>
 
 
 
