@@ -3,7 +3,7 @@
 ## Guidelines
 
 - In the data folder there are two files, one of them is **Raw Data** and another is a cleaned & filtered data and has been names as **sales_df**
-- In case you just need to go thorugh project, there is a **PDF** file in the form of PPT report, which succintly takes you through the project.
+- In case you just need to go through project, there is a **PDF** file in the form of PPT report, which succintly takes you through the project.
 - For a **detailed technical understanding** of the project, you can refer to the **Jupyter Notebook** file.
 
 ## Introduction
