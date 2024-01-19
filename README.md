@@ -15,12 +15,29 @@ The dataset we will be working with is the "Online Retail" dataset. It contains 
 The dataset contains the following columns:<br>
 **InvoiceNo:** Invoice number of the transaction, if the code starts with letter 'c', it indicates a cancellation.<br>
 **StockCode:** Unique code of the product.<br>
-**Description:** Description of the product.
+**Description:** Description of the product.<br>
 **Quantity:** Quantity of the product in the transaction.<br>
 **InvoiceDate:** Date and time of the transaction.<br>
 **UnitPrice:** Unit price of the product.<br>
 **CustomerID:** Unique identifier of the customer.<br>
 **Country:** Country where the transaction occurred.<br>
+
+## Analysis Approach
+
+
+- As this is a large dataset, the primary objective here in this project is to understand the data.
+- Distribution of the data has been explored and evaluated before & after the data cleaning. 
+- Apart from regular data cleaning, many non  sale entries had to be removed.
+- Further, basic statistics and Exploratory Data Analysis (EDA) to have a better understanding of data was performed.
+- Then, specific questions were explored to have more insights.
+- Data Visualization has been utilized to derive inferences.
+- The Analysis is based on:
+    - Python version – 3.11.7
+    - Numpy version – 1.26.2
+    - Pandas version – 2.1.4
+    - Matplotlib version – 3.8.0
+
+
 
 
 
